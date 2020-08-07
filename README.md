@@ -1,6 +1,6 @@
 # DevConnector
 
-This Project was implemented using ReactJS, Node.js, MongoDB and Redux for state management
+This Project was implemented using ReactJS, Node.js, MongoDB and Redux for state management <br>
 live version:https://floating-crag-77001.herokuapp.com/login
 
 # Available Scripts
