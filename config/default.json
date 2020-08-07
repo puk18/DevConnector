@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://root123:root123@devconnector.qti2o.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtToken": "mysecrettoken",
+  "githubClientId": "e6953329e39b6f2c9d47",
+  "githubSecret": "864fbb7608dedd5813f78ac9f50f9d9f10f02f14"
+}
